@@ -1,4 +1,4 @@
-# Claude Code Monitor — Stream Deck Plugin
+# CC Usage Monitor — Stream Deck Plugin
 
 Monitor your **Claude Code session usage** in real time, directly on an Elgato Stream Deck key.
 
@@ -33,7 +33,7 @@ When Claude Code enters extra usage or rate-limited mode, the key shows `EXTRA` 
 
 ## Install
 
-Find **Claude Code Monitor** in the [Elgato Marketplace](https://marketplace.elgato.com) and click Install, or search for it directly inside the Stream Deck software.
+Find **CC Usage Monitor** in the [Elgato Marketplace](https://marketplace.elgato.com) and click Install, or search for it directly inside the Stream Deck software.
 
 ---
 

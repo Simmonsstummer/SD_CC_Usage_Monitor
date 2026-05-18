@@ -1,4 +1,4 @@
-# Claude Code Monitor — Stream Deck Plugin
+# CC Usage Monitor — Stream Deck Plugin
 
 Monitor your **Claude Code (Anthropic) session usage** in real time, directly on an Elgato Stream Deck key.
 
@@ -8,7 +8,7 @@ The key shows the **5-hour session percentage** as a large number (green / yello
 
 ## Install
 
-Find **Claude Code Monitor** in the [Elgato Marketplace](https://marketplace.elgato.com) and click Install, or search for it directly inside the Stream Deck software.
+Find **CC Usage Monitor** in the [Elgato Marketplace](https://marketplace.elgato.com) and click Install, or search for it directly inside the Stream Deck software.
 
 **Requirements:** Stream Deck software 6.4+, Claude Code installed and signed in on Windows.
 

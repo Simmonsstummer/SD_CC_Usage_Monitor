@@ -1,4 +1,4 @@
-# Support — Claude Code Monitor
+# Support — CC Usage Monitor
 
 ## Before opening an issue
 

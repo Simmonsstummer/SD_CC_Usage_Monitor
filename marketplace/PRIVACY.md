@@ -1,4 +1,4 @@
-# Privacy Policy — Claude Code Monitor (Stream Deck Plugin)
+# Privacy Policy — CC Usage Monitor (Stream Deck Plugin)
 
 _Last updated: May 2026_
 
